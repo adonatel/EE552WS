@@ -1,18 +1,25 @@
 1. What are JDK, JRE and JVM? It should be in your own words and not more than two unambiguous sentences for each.
 
-The JDK (Java Development Kit) is what allows a program to be created in a format that the JRE and JVM can execute. As the name implies, the JDK's purpose is geared towards the development of program rather than their running. 
+The JDK (Java Development Kit) is what allows a program to be created in a format that the JRE and JVM can execute.
+As the name implies, the JDK's purpose is geared towards the development of program rather than their running. 
 
-The JRE (Java Runtime Environment) is used for the purpose of running other software. The JRE is what handles the setting up of classes and libraries in order for a program to be able to run correctly. To put it broadly the JRE is like a manager for all of the smaller components along with the JVM.
+The JRE (Java Runtime Environment) is used for the purpose of running other software.
+The JRE is what handles the setting up of classes and libraries in order for a program to be able to run correctly.
+To put it broadly the JRE is like a manager for all of the smaller components along with the JVM.
 
-The JVM (Java Virtual Machine) is what is used to run the programs that have been created by the JDK and setup by the JRE. The JVM is a virtual machine that is setup to run java code on any operating system, even those that may not natively support it. The JVM, being only a virtual machine, will also manage memory usage as well as optimize it to improve performance.
+The JVM (Java Virtual Machine) is what is used to run the programs that have been created by the JDK and setup by the JRE.
+The JVM is a virtual machine that is setup to run java code on any operating system, even those that may not natively support it.
+The JVM, being only a virtual machine, will also manage memory usage as well as optimize it to improve performance.
 
 
-2. What is the relation between the three (JDK, JRE, JVM)? How is Java code executed in a Java program. Explain by assuming that the program was written on one platform (e.g., Windows) and executed on another (e.g., Linux). Small paragraph of 6-9 sentences.
+2. What is the relation between the three (JDK, JRE, JVM)? How is Java code executed in a Java program. 
+Explain by assuming that the program was written on one platform (e.g., Windows) and executed on another (e.g., Linux). Small paragraph of 6-9 sentences.
 
 
 
 
-3. With the help of the code for Hello World program in Java (you can copy code with citation), explain when this program needs JDK (and not JRE and JVM), JRE (and not JVM) and JVM.
+3. With the help of the code for Hello World program in Java (you can copy code with citation), explain when this program needs JDK (and not JRE and JVM), 
+JRE (and not JVM) and JVM.
 
 
 
