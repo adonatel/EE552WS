@@ -15,6 +15,11 @@ The JVM, being only a virtual machine, will also manage memory usage as well as 
 2. What is the relation between the three (JDK, JRE, JVM)? How is Java code executed in a Java program. 
 Explain by assuming that the program was written on one platform (e.g., Windows) and executed on another (e.g., Linux). Small paragraph of 6-9 sentences.
 
+Java Development Kit (JDK) is a software development environment used for developing java applications. The JDK contains the java runtime environment (JRE). The JRE provides
+the minimum requirements to execute a java application. The Java Virtual Machine (JVM) is responsible for executing the program line by line. Java code is executed in a java program
+by first being compiled. The '.java' file is passed through a complier which encodes the source code into bytecode. This process generates class files which are independednt of the machine
+or OS that the code was compiled on. Since these class files are independent of the machine or OS it allows the program to be run on any system. So if the code was written on a windows machine
+and then compiled, the program would still be able to run on a Linux based system. 
 
 
 
