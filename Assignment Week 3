@@ -47,6 +47,10 @@ that this program can be run on any operating system since all machines with pro
 
 
 
+Non-trivial question: Normally the JRE is needed to set up the environment and any class files/memory that would be needed to run the program.
+The question I have is whether or not the JRE can be removed from the process and manually set up in order to run the JVM.
+By this I'm wondering, can the class files and memory can be set up by hand in order to be utilized by the JVM, or does it have to run through its own procedure?
+
 
 
 
